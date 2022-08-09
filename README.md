@@ -28,4 +28,4 @@ You will start with creating an EKS cluster in your preferred region, using `eks
  - **Create Codebuild and CodePipeline resources using CloudFormation template**<br>Create a pipeline watching for commits to your Github repository. You will create the necessary AWS resources using a script, Cloudformation template (.yaml) file, available to you. These resources collectively are called **stack**. It will automatically create the Codebuild and Codepipeline projects for you. <br><br>
  
  
- - **Build and deploy**<br>Finally, you will trigger the **build** based on a Github commit. 
+ - **Build and deploy**<br>Finally, you will trigger the **build** based on a Github commit.  
